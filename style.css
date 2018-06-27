@@ -10,6 +10,7 @@ body{
 	border-radius: 10px;
 	display: flex;
 	flex-direction: column;
+	background-color: red;
 }
 input[type="button"]{
 	width: 50px;
