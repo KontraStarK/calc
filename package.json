@@ -14,5 +14,16 @@
   "license": "ISC",
   "devDependencies": {
     "express": "^4.16.3"
-  }
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KontraStarK/calc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KontraStarK/calc/issues"
+  },
+  "homepage": "https://github.com/KontraStarK/calc#readme"
 }
